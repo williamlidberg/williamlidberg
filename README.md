@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @williamlidberg
 - 👀 I’m interested in hydrology, digital soil science, machine learning
-- 🌱 I’m currently learning deep learning
+- 🌱 I’m currently learning deep learning and docker
 - 💞️ I’m looking to collaborate on image segmentation
 - 📫 How to reach me william.lidberg@slu.se
 
